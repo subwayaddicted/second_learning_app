@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567674498934",
+    "firebase_url": "https://messageapp-be783.firebaseio.com",
+    "project_id": "messageapp-be783",
+    "storage_bucket": "messageapp-be783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567674498934:android:3d673986c9c56f54c01457",
+        "android_client_info": {
+          "package_name": "com.example.second_learning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567674498934-tht37ifo8165302nkaphdijhoubdmqnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.second_learning_app",
+            "certificate_hash": "ca08510fdf43c69da86f9ca107cd8016dcced4e0"
+          }
+        },
+        {
+          "client_id": "567674498934-28h7t2ptqkmjf4ctjvaics4navh3ig4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfoAqoJw2LsmpyrnpENNZseHADJt5xlVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567674498934-28h7t2ptqkmjf4ctjvaics4navh3ig4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
